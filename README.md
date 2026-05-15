@@ -41,15 +41,15 @@ The project integrates concepts from **robotics**, **embedded systems**, **contr
 # 📸 Project Images
 
 <p align="center">
-  <img src="Images/AssemblingRobo.jpeg" alt="Front View" width="30%"/>
-  <img src="Images/BOD_Survey01.jpeg" alt="Side View" width="30%"/>
-  <img src="LFR_Track.jpeg" alt="Top View" width="30%"/>
+  <img src="Images/AssemblingRobo.jpeg" alt="AssemblingRobo" width="30%"/>
+  <img src="Images/BOD_Survey01.jpeg" alt="BOD_Survey01" width="30%"/>
+  <img src="Images/LFR_Track.jpeg" alt="LFR_Track" width="30%"/>
 </p>
 
 <p align="center">
-  <img src="BOD_diagram.png" alt="6 IR Sensor Array" width="30%"/>
-  <img src="RbobExpo.jpeg" alt="Circuit Setup" width="30%"/>
-  <img src="LFR_Final.jpeg" alt="Competition Demo" width="30%"/>
+  <img src="Images/BOD_diagram.png" alt="BOD_diagram" width="30%"/>
+  <img src="Images/RbobExpo.jpeg" alt="RbobExpo" width="30%"/>
+  <img src="Images/LFR_Final.jpeg" alt="LFR_Finalo" width="30%"/>
 </p>
 
 ---
@@ -136,7 +136,7 @@ The robot was demonstrated at **Robo Expo 3.0 Line Following Robot Competition**
 # 🎥 Project Demonstration
 
 ## 🚀 Robot Demo Video
-👉 [Watch Project Demonstration](https://your-video-link-here.com)
+👉 [Watch Project Demonstration](https://youtu.be/5jh-5HGvC-I?si=fUtuRpyZTeAdvar9)
 
 ## 📹 Competition Video
 👉 [Watch Competition Run](https://drive.google.com/drive/folders/1vbCsWmQQTOEhLLqegLyPj-2Yx9D14YnA?usp=drive_link)
