@@ -41,17 +41,16 @@ The project integrates concepts from **robotics**, **embedded systems**, **contr
 # 📸 Project Images
 
 <p align="center">
-  <img src="Images/AssemblingRobo.jpeg" alt="AssemblingRobo" width="30%"/>
-  <img src="Images/BOD_Survey01.jpeg" alt="BOD_Survey01" width="30%"/>
-  <img src="Images/LFR_Track.jpeg" alt="LFR_Track" width="30%"/>
+  <img src="Images/AssemblingRobo.jpeg" alt="AssemblingRobo" width="300" height="220"/>
+  <img src="Images/BOD_Survey01.jpeg" alt="BOD_Survey01" width="300" height="220"/>
+  <img src="Images/LFR_Track.jpeg" alt="LFR_Track" width="300" height="220"/>
 </p>
 
 <p align="center">
-  <img src="Images/BOD_diagram.png" alt="BOD_diagram" width="30%"/>
-  <img src="Images/RbobExpo.jpeg" alt="RbobExpo" width="30%"/>
-  <img src="Images/LFR_Final.jpeg" alt="LFR_Finalo" width="30%"/>
+  <img src="Images/BOD_diagram.png" alt="BOD_diagram" width="300" height="220"/>
+  <img src="Images/RbobExpo.jpeg" alt="RbobExpo" width="300" height="220"/>
+  <img src="Images/LFR_Final.jpeg" alt="LFR_Final" width="300" height="220"/>
 </p>
-
 ---
 
 
