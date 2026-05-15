@@ -38,6 +38,22 @@ The project integrates concepts from **robotics**, **embedded systems**, **contr
 | Castor Wheel | Balance and support |
 
 ---
+# 📸 Project Images
+
+<p align="center">
+  <img src="Images/AssemblingRobo.jpeg" alt="Front View" width="30%"/>
+  <img src="Images/BOD_Survey01.jpeg" alt="Side View" width="30%"/>
+  <img src="LFR_Track.jpeg" alt="Top View" width="30%"/>
+</p>
+
+<p align="center">
+  <img src="BOD_diagram.png" alt="6 IR Sensor Array" width="30%"/>
+  <img src="RbobExpo.jpeg" alt="Circuit Setup" width="30%"/>
+  <img src="LFR_Final.jpeg" alt="Competition Demo" width="30%"/>
+</p>
+
+---
+
 
 ## ⚙️ Working Principle
 - The 6-channel IR sensor array continuously detects the position of the black line on the track.  
@@ -117,7 +133,15 @@ The project integrates concepts from **robotics**, **embedded systems**, **contr
 The robot was demonstrated at **Robo Expo 3.0 Line Following Robot Competition**, where the primary focus was speed, stability, and accurate tracking. Through careful sensor calibration, PID tuning, and motor optimization, the robot achieved smooth navigation and reliable autonomous performance on competitive tracks.
 
 ---
+# 🎥 Project Demonstration
 
+## 🚀 Robot Demo Video
+👉 [Watch Project Demonstration](https://your-video-link-here.com)
+
+## 📹 Competition Video
+👉 [Watch Competition Run](https://drive.google.com/drive/folders/1vbCsWmQQTOEhLLqegLyPj-2Yx9D14YnA?usp=drive_link)
+
+---
 ## 👨‍💻 Team Members
 **Team Name:** BOD_Paradox  
 
